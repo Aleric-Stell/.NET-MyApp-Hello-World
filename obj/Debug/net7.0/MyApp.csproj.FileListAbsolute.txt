@@ -1,0 +1,15 @@
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\bin\Debug\net7.0\MyApp.exe
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\bin\Debug\net7.0\MyApp.dll
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.dll
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+C:\Users\aleri\Desktop\MyApp\.NET-MyApp\obj\Debug\net7.0\ref\MyApp.dll
